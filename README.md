@@ -1,14 +1,14 @@
 # Welcome to my Project: Job-Search! 
 #Simple skills demonstrated will be: For Loops, If-Else, WordCloud, and BarPlot using R!<br>
 #What is not shared: The data sets containing the "qualifications" sections of the job descriptions and dates applied which are used in this project are not shared due to privacy reasons.<br>
-#What is shared: I have shared my R Script code below for this project!<br>
+#What is shared: I have shared my R Script code below for this project!
 <br><br>
 <b>[Click Here For R Code](https://github.com/salmaalifitness/R_For_Loop_If_Else/files/7158299/jobsearch_R_Code.txt)</b>
 <br><br>
-#####################################################################</b><br></p>
+<b>#####################################################################</b><br>
 #I applied to 30 jobs related to data analytics! For every interview, I will need at least 60 minutes to prepare.<br>
-#Let's see how many interviews I have scheduled to plan ahead. <br>
-#####################################################################<br>
+#Let's see how many interviews I have scheduled to plan ahead using If-Else inside a For Loop. <br>
+<b>#####################################################################</b><br><br>
 ![interviews_scheduled](https://user-images.githubusercontent.com/82971200/133180357-fd66d73e-e5ed-4d8b-874c-159f943161ce.JPG)
 <br><br>
 <b>#####################################################################</b><br>
@@ -16,7 +16,7 @@
 #I need to analyze the "qualifications" sections in the job descriptions to see which skills I need to focus more on.<br>
 #Let's analyze the job requirements by using text mining stratagies for jobs I have applied for relating to data analysis.<br>
 #We can start with WordCloud!<br>
-<b>#####################################################################</b><br>
+<b>#####################################################################</b><br><br>
 ![worldplot_top_qualifications](https://user-images.githubusercontent.com/82971200/133180389-16e84db0-70c9-4bc3-9686-1668bcb33c5c.JPG)
 <br><br>
 <b>#####################################################################</b><br>
@@ -26,7 +26,7 @@
 #Furthermore, I am working on online skills certification to continue refining my data science math stratagies and python syntax. <br> 
 #I need to find the frequency of the qualifications I do have to see which skills I need to emphasize the most on my resume. <br>
 #Let's create a barplot to visualize the percentage of the occurance of skills mentioned above within the 30 job descriptions.<br>
-<b>#####################################################################</b><br>
+<b>#####################################################################</b><br><br>
 ![barplot_my_skills_percentage](https://user-images.githubusercontent.com/82971200/133180452-3b128ca5-b1e2-4d75-8d09-3aad715b8cb6.JPG)
 <br><br>
 <b>#####################################################################</b><br>
